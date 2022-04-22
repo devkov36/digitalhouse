@@ -7,3 +7,4 @@ let saludar = (nombre) => {
 }
 
 console.log(saludar('Juan Carlos'));
+console.log("MODIFICACIÓN DE ADOLFO");
